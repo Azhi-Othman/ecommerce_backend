@@ -2,7 +2,7 @@ import express from "express";
 import userRouter from "./src/routes/user.routes.js";
 const app = express();
 
-//set up route
+//set up routegf
 
 app.use(userRouter);
 
